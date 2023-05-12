@@ -151,8 +151,8 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
+      SubTitle: "瞅啥，有密码",
+      Placeholder: "你猜",
     },
     Model: "模型 (model)",
     Temperature: {
@@ -170,8 +170,8 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
-    Error: "出错了，稍后重试吧",
+    BotHello: "说吧，你来弄啥嘞？",
+    Error: "出错了，你别急，咱过会儿再试试",
     Prompt: {
       History: (content: string) =>
         "这是 ai 和用户的历史聊天总结作为前情提要：" + content,
@@ -226,7 +226,7 @@ const cn = {
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
     Title: "挑选一个面具",
-    SubTitle: "现在开始，与面具背后的灵魂思维碰撞",
+	  SubTitle: "来都来了，不搞个面具玩一哈？",
     More: "查看全部",
   },
 
