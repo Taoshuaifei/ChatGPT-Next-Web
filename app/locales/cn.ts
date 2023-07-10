@@ -249,6 +249,7 @@ const cn = {
   Store: {
     DefaultTopic: "新的聊天",
     BotHello: "有什么可以帮你的吗",
+    BotHello: "Hi！有什么可以帮到你的嘛~~\n\n![hello](https://qiniu.handsomefly.cn/2023/06/15/d27c7723b86f4.gif)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
